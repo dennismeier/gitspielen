@@ -1,1 +1,2 @@
 Trying to figure out how git works.
+Finally got a push to work. Now to push a changed file.
